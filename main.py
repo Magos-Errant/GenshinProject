@@ -1,3 +1,5 @@
+# Version 0.2
+
 # No to tak, jak to ma działać? Metoda gradientu jest spoko, ale tutaj mamy mocno ograniczoną liczbę elementów
 # o konkretnych wartosciach.
 # Zobaczmy czy zadziala taka funkcja dmg(character, weapon, feather, goblet, crown, time_piece, flower) = []
