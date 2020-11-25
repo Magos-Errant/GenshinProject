@@ -1,5 +1,5 @@
 # No to tak, jak to ma działać? Metoda gradientu jest spoko, ale tutaj mamy mocno ograniczoną liczbę elementów
-# o konkretnych wartosciach. Wiec mozna policzyk kazda kombinacje
+# o konkretnych wartosciach.
 # Zobaczmy czy zadziala taka funkcja dmg(character, weapon, feather, goblet, crown, time_piece, flower) = []
 # Printuje zestaw ktory mial najwiesza wartosc
 # 2 tryby pracy - optymalne_itemy, itemy_usera
